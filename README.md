@@ -1,5 +1,5 @@
 -  Hi, I’m @Pavanboga07
--  I’m currently learning AI&DS
+-  I’m currently learning AI&DS and game development
 
 
 <!---
